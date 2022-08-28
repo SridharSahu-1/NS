@@ -12,7 +12,7 @@ public class RamGrades {
         float totalmarks = a+b+c+d;
         float percentage = totalmarks/400*100;
         System.out.println((int)percentage);
-//Note
+
 
     }
 }
