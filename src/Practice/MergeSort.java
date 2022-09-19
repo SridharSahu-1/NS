@@ -1,4 +1,4 @@
-package google;
+package Practice;
 
 import java.util.Arrays;
 
