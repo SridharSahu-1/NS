@@ -1,12 +1,11 @@
 package Recursion;
 
 import java.util.*; // contains Collections framework
-
 // don't change the name of this class
 // you can add inner classes if needed
 class InsertOperator {
-    public static int test(long []arr,long k,  int i, long sum)
-     {  if(arr.length==i){
+    public static int test(long []arr,long k,  int i, long sum) {
+         if(arr.length==i){
             if(sum==k){   
                 return 1;   }
             else{
