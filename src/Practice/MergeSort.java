@@ -13,8 +13,8 @@ public class MergeSort {
         int mid = arr.length / 2;
         int[] left = mergeSort(Arrays.copyOfRange(arr, 0, mid));
         int[] right = mergeSort(Arrays.copyOfRange(arr, mid, arr.length));
-        return merged(left, right); }
-    static int[] merged(int[] left, int[] right) {
+        return merge(left, right); }
+    static int[] merge(int[] left, int[] right) {
         int[] mix = new int[left.length + right.length];
         int i = 0, j = 0, k = 0;
         while (i < left.length && j < right.length) {
