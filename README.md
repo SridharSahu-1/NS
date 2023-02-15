@@ -1,3 +1,3 @@
 # NS
-Assignment from Netwon School (Full Stack Devlopment Course)
+DSA Assignment Questions with Solutions from Netwon School (Full Stack Devlopment Course)
 
