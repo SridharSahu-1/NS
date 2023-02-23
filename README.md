@@ -1,3 +1,3 @@
 # NS
-DSA Assignment Questions with Solutions from Netwon School (Full Stack Devlopment Course)
+DSA Assignment Questions with Solutions in Java from Netwon School (Full Stack Devlopment Course)
 
